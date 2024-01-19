@@ -9,6 +9,7 @@ export default function Document() {
         <Navbar />
         <Main />
         <NextScript />
+        
       </body>
     </Html>
   );

@@ -11,14 +11,9 @@ const Navbar = () => {
           </h1>
           <div className="flex flex-row gap-20 justify-center items-center">
             <div className="hidden lg:flex flex-row gap-6">
-          <ul className="flex flex-row gap-12 text-lg font-semibold">
-            <Link href='/'>Home</Link>
-            <Link href='/'>About</Link>
-            <Link href='/'>Contact</Link>
-          </ul>
+          
           </div>
           <div className="flex flex-row gap-4 items-center">
-            
           </div> 
           </div>
     </nav>
