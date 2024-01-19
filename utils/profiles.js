@@ -2,6 +2,11 @@ export const data = [
   {
     name: "Srivatsa",
     githubUserName: "SrivatsaRUpadhya",
-    someOtherField: "someOtherValue",
+    hotTake: "use Vim!",
+  },
+  {
+    name: "Satwik",
+    githubUserName: "satwikrprabhu",
+    hotTake: "Hello World!",
   },
 ];
