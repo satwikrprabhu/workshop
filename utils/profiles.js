@@ -10,8 +10,8 @@ export const data = [
     branch: "CSE",
   },
   {
-    name: "Vineeth Acharya",
+    name:"Vineeth Acharya",
     githubUserName: "Zneuromancer3",
-    branch: "Mechanical"
-  }
+    branch:"Mechanical",
+  },
 ];
