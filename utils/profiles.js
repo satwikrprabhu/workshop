@@ -5,9 +5,24 @@ export const data = [
     branch: "CSE",
   },
   {
-    name: "Satwik Prabhu",
+    name: "Satwik Prabhu 😘😘😘😘😘 Love you",
     githubUserName: "satwikrprabhu",
-    branch: "CSE",
+    branch: "CSE"
+  },
+  {
+    name: "Dhanush Naik",
+    githubUserName: "dhanushlnaik",
+    branch: "ISE",
+  },
+  {
+    name: "Rashmi N",
+    githubUserName: "nrashmi06",
+    branch: "AI & DS",
+  },
+  {
+    name: "Nandan Pai",
+    githubUserName: "nandanpi",
+    branch: "AIML"
   },
   {
     name: "Ankith Hebbar",
@@ -15,4 +30,5 @@ export const data = [
     branch: "AI&DS",
   },
   
+
 ];
