@@ -79,7 +79,14 @@ export const data = [
     branch: "ISE",
   }
 ,
-  
+
+
+  {
+    name: "Prathamesh Hegde ",
+    githubUserName: "Prathamesh1903",
+    branch: "CSE",
+  },
+
   
   {
     name: "Soham Misra",
@@ -166,3 +173,4 @@ export const data = [
   }
 
 ];
+
