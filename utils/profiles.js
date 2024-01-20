@@ -13,6 +13,6 @@ export const data = [
     name: "Rashmitha R Bangera",
     githubUserName: "RashmithaRB",
     branch: "ISE",
-  },
+  }
   
 ];
