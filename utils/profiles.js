@@ -10,6 +10,18 @@ export const data = [
     branch: "CSE"
   },
   {
+
+    name: "Nidhish Shettigar",
+    githubUserName: "nidhish654",
+    branch: "AI and DS"
+  },
+  {
+    name: "Swasthi Shetty",
+    githubUserName: "Swasthi-Shetty",
+    branch: "RAI",
+  },
+  {
+
     name: "Dhanush Naik",
     githubUserName: "dhanushlnaik",
     branch: "ISE",
