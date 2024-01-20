@@ -25,6 +25,12 @@ export const data = [
     branch: "AIML"
   },
   {
+    name: "Soham Misra",
+    githubUserName: "SohamMisra",
+    branch: "CCE",
+  },
+  
+  {
     name: "Swasthi Shetty",
     githubUserName: "Swasthi-Shetty",
     branch: "RAI",
