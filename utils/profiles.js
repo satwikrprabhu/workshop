@@ -7,7 +7,7 @@ export const data = [
   {
     name: "Satwik Prabhu 😘😘😘😘😘 Love you",
     githubUserName: "satwikrprabhu",
-    branch: "CSE",
+    branch: "CSE"
   },
   {
     name: "Dhanush Naik",
@@ -18,6 +18,11 @@ export const data = [
     name: "Nandan Pai",
     githubUserName: "nandanpi",
     branch: "AIML"
+  },
+    name: "Swasthi Shetty",
+    githubUserName: "Swasthi-Shetty",
+    branch: "RAI",
+
   }
   
 ];
