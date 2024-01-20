@@ -10,7 +10,7 @@ export default function Home() {
       className={`flex min-h-screen bg-slate-900 flex-col items-center justify-between p-24 ${inter.className}`}
     >
       <div className="max-w-5xl">
-        <h1 className="text-5xl text-center font-bold text-white my-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 py-8">Workshop</h1>
+        <h1 className="text-5xl text-center font-bold my-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-300 to-green-500 py-8">Workshop Attendance</h1>
      <Card />
      </div>
     </main>

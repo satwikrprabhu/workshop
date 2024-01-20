@@ -2,11 +2,12 @@ export const data = [
   {
     name: "Srivatsa",
     githubUserName: "SrivatsaRUpadhya",
-    hotTake: "use Vim!",
+    branch: "CSE",
   },
   {
-    name: "Satwik",
+    name: "Satwik Prabhu",
     githubUserName: "satwikrprabhu",
-    hotTake: "Hello World!",
+    branch: "CSE",
   },
+  
 ];
