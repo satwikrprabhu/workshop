@@ -68,6 +68,11 @@ export const data = [
     githubUserName: "Nandan-Upadhyaya",
     branch: "AI & DS",
   },
+  {
+    name: "Rashmitha R Bangera",
+    githubUserName: "RashmithaRB",
+    branch: "ISE",
+  }
   
   
   {
