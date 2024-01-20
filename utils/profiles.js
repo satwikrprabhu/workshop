@@ -11,6 +11,12 @@ export const data = [
   },
   {
 
+    name: "Diya Dharmendra",
+    githubUserName: "DiyaDSV",
+    branch: "CSE",
+  },
+  {
+
     name: "Dhanush Naik",
     githubUserName: "dhanushlnaik",
     branch: "ISE",
@@ -35,8 +41,12 @@ export const data = [
     name: "Liya Nanaiah",
     githubUserName: "liyananaiah",
     branch: "CSE",
+  },
+  
+=======
   }
   ,
+
   {
     name: "Rashmi N",
     githubUserName: "nrashmi06",
@@ -77,6 +87,8 @@ export const data = [
     name: "Rashmitha R Bangera",
     githubUserName: "RashmithaRB",
     branch: "ISE",
+  },
+
   }
 ,
 
@@ -86,6 +98,7 @@ export const data = [
     githubUserName: "Prathamesh1903",
     branch: "CSE",
   },
+
 
   
   {
