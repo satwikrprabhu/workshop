@@ -10,4 +10,11 @@ export const data = [
     branch: "CSE",
   },
   
+
+  {
+    name: "Prathamesh Hegde ",
+    githubUserName: "Prathamesh1903",
+    branch: "CSE",
+  },
 ];
+
