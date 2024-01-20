@@ -9,5 +9,9 @@ export const data = [
     githubUserName: "satwikrprabhu",
     branch: "CSE",
   },
-  
+  {
+    name: "Shashank S Kumar",
+    githubUserName: "shankaz05",
+    branch: "CCE",
+  },
 ];
