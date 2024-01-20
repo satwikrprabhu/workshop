@@ -31,6 +31,11 @@ export const data = [
     githubUserName: "leorasdsouza",
     branch: "ISE",
   },
+  {
+    name: "Liya Nanaiah",
+    githubUserName: "liyananaiah",
+    branch: "CSE",
+  }
   
   {
     name: "Rashmi N",
