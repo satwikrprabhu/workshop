@@ -7,22 +7,25 @@ export const data = [
   {
     name: "Satwik 😘😘 Love you",
     githubUserName: "satwikrprabhu",
-    branch: "CSE",
+    branch: "CSE"
   },
   {
+
     name: "Diya Dharmendra",
     githubUserName: "DiyaDSV",
     branch: "CSE",
   },
   {
+
     name: "Dhanush Naik",
     githubUserName: "dhanushlnaik",
     branch: "ISE",
   },
   {
+
     name: "Nidhish Shettigar",
     githubUserName: "nidhish654",
-    branch: "AI and DS",
+    branch: "AI and DS"
   },
   {
     name: "Swasthi Shetty",
@@ -39,8 +42,11 @@ export const data = [
     githubUserName: "liyananaiah",
     branch: "CSE",
   },
-
+  
+=======
+  }
   ,
+
   {
     name: "Rashmi N",
     githubUserName: "nrashmi06",
@@ -49,14 +55,15 @@ export const data = [
   {
     name: "Nandan Pai",
     githubUserName: "nandanpi",
-    branch: "AIML",
+    branch: "AIML"
   },
   {
+
     name: "Raksha Kamath B",
     githubUserName: "Raksha-2004",
     branch: "AIML",
   },
-  {
+    {
     name: "Ankith Hebbar",
     githubUserName: "awesomecode",
     branch: "AI&DS",
@@ -82,13 +89,18 @@ export const data = [
     branch: "ISE",
   },
 
-  ,
+  }
+,
+
+
   {
     name: "Prathamesh Hegde ",
     githubUserName: "Prathamesh1903",
     branch: "CSE",
   },
 
+
+  
   {
     name: "Soham Misra",
     githubUserName: "SohamMisra",
@@ -100,11 +112,13 @@ export const data = [
     branch: "CSE",
   },
   {
+
     name: "Shivani Shetty",
     githubUserName: "ShivaniShetty01",
     branch: "ISE",
   },
   {
+
     name: "Anirudh Pai",
     githubUserName: "AnirudhPai13",
     branch: "CCE",
@@ -115,6 +129,7 @@ export const data = [
     branch: "bte",
   },
   {
+
     name: "Namratha M",
     githubUserName: "Namratha8213",
     branch: "ISE",
@@ -129,15 +144,16 @@ export const data = [
     branch: "CSE",
   },
   {
+
     name: "Dhanyashree",
     githubUserName: "nnm22cs062",
     branch: "CSE",
   },
 
   {
-    name: "Vineeth Acharya",
+    name:"Vineeth Acharya",
     githubUserName: "Zneuromancer3",
-    branch: "Mechanical",
+    branch:"Mechanical",
   },
   {
     name: "Deetya S Salian",
@@ -145,7 +161,7 @@ export const data = [
     branch: "CSE",
   },
 
-  {
+    {
     name: "Shashank S Kumar",
     githubUserName: "shankaz05",
     branch: "CCE",
@@ -156,20 +172,18 @@ export const data = [
     githubUserName: "Shanmukhavarma1",
     branch: "AI&ML",
   },
-
+  
   {
     name: "Swasthi Shetty",
     githubUserName: "Swasthi-Shetty",
     branch: "RAI",
+
   },
   {
-    name: "Vinayaka Kolur",
+    name :"Vinayaka Kolur",
     githubUserName: "vinayakakolur",
     branch: "ECE",
-  },
-  {
-    name: "Test User",
-    githubUserName: "sethrock420",
-    branch: "CSE",
-  },
+  }
+
 ];
+
